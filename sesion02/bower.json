@@ -1,0 +1,9 @@
+{
+  "name": "musica",
+  "version": "0.0.1",
+  "dependencies": {
+    "reveal.js": "latest",
+    "handlebars": "~1.0.0",
+    "jquery": "~1.10"
+  }
+}
