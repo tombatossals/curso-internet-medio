@@ -30,7 +30,7 @@ function checkVersion() {
 
 checkVersion();
 
-var PERMANENT_URL_PREFIX = 'http://micronautas.com/medio/';
+var PERMANENT_URL_PREFIX = 'http://micronautas.com/medio+/';
 
 var SLIDE_CLASSES = ['far-past', 'past', 'current', 'next', 'far-next'];
 
